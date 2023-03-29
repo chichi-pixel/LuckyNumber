@@ -6,7 +6,7 @@ Between 28.03-02-04.2023 coding with Xamarin Android: Learn to Build Native Andr
 <img width="72" alt="ln_ion" src="https://user-images.githubusercontent.com/60243643/228392640-438ca0bf-ae64-4a2a-8b7a-6e0b741e8f5c.png">
 
 
-** "What's your lucky number?" ;))
+** "What's your lucky number?" ;)) **
 
 * Designing the App User Interface
 
