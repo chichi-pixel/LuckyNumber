@@ -1,5 +1,5 @@
 # LuckyNumber
-#xamarin #c#  
+#xamarin #c# #android
 
 Between 28.03-02-04.2023 coding with Xamarin Android: Learn to Build Native Android Apps With C# - time for step up more on C# & Xamarin! ;)
 
