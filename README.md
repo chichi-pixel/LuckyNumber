@@ -18,6 +18,9 @@ Between 28.03-02-04.2023 coding with Xamarin Android: Learn to Build Native Andr
 
 * Setting Launcher Icon for Your App
 
+<img width="1076" alt="ln_me" src="https://user-images.githubusercontent.com/60243643/228395036-377469c3-b013-4596-a7d9-fb6fde7af857.png">
+
+
 
 <img width="473" alt="LuckyNumber" src="https://user-images.githubusercontent.com/60243643/228393845-7d7a0b0b-7e58-45e4-9f49-69f2ee014b00.png">
 
