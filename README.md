@@ -1,6 +1,7 @@
 # LuckyNumber
 #xamarin #c#  
 
+Between 28.03-02-04.2023 coding with Xamarin Android: Learn to Build Native Android Apps With C# - time for step up more on C# & Xamarin! ;)
 
 <img width="72" alt="ln_ion" src="https://user-images.githubusercontent.com/60243643/228392640-438ca0bf-ae64-4a2a-8b7a-6e0b741e8f5c.png">
 
@@ -19,3 +20,6 @@
 
 
 <img width="473" alt="LuckyNumber" src="https://user-images.githubusercontent.com/60243643/228393845-7d7a0b0b-7e58-45e4-9f49-69f2ee014b00.png">
+
+
+
